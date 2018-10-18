@@ -36,6 +36,7 @@ local params = {
 	{ radius=15, xDir=1, yDir=1, xSpeed=3.5, ySpeed=4.0, r=0.95, g=0.1, b=0.3 },
 	{ radius=25, xDir=1, yDir=1, xSpeed=2.5, ySpeed=4.0, r=0.15, g=0.1, b=0.35 },
 	{ radius=30, xDir=1, yDir=1, xSpeed=5.5, ySpeed=7.0, r=2.15, g=1.1, b=3.35 },
+	{ radius=05, xDir=1, yDir=1, xSpeed=9.5, ySpeed=8.0, r=1.15, g=1.15, b=0.35 },
 	{ radius=22, xDir=1, yDir=-1, xSpeed=5.5, ySpeed=5.0, r=0.9, g=0.2, b=0.5 }
 }
 
